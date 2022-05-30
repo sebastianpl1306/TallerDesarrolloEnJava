@@ -14,5 +14,12 @@ import javax.swing.JOptionPane;
 public class Ejercicio2 {
     public static void main(String[] args) {
         //TODO: Ejercicio 2
+        int sumaTotal = 0;
+        
+        for (int i = 0; i <= 10; i++) {
+            sumaTotal = sumaTotal + i;
+        }
+        
+        System.out.println("el total de la suma es: "+sumaTotal);
     }
 }
