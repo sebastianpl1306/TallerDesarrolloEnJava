@@ -12,11 +12,14 @@ import javax.swing.JOptionPane;
  */
 public class Ejercicio5 {
     public static void main(String[] args) {
+        //Declaración de variables
         int numero1, numero2;
         
+        //Solicitar numeros al usuario
         numero1 = Integer.parseInt(JOptionPane.showInputDialog(null, "Ingrese un numero: "));
         numero2 = Integer.parseInt(JOptionPane.showInputDialog(null, "Ingrese un numero: "));
         
+        //Calcular el numero mayor y menor entre dos numeros
         if(numero1 < numero2){
             JOptionPane.showMessageDialog(null, "menor: "+numero1+"\nmayor: "+numero2);
         }else if(numero2 < numero1){

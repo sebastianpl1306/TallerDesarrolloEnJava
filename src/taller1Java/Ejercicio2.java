@@ -13,9 +13,10 @@ import javax.swing.JOptionPane;
  */
 public class Ejercicio2 {
     public static void main(String[] args) {
-        //TODO: Ejercicio 2
+        //Declaración de variables
         int sumaTotal = 0;
         
+        //Suma los numeros del 1 al 10
         for (int i = 0; i <= 10; i++) {
             sumaTotal = sumaTotal + i;
         }
