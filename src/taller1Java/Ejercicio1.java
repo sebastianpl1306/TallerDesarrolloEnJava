@@ -21,8 +21,8 @@ public class Ejercicio1 {
         
         //Peticion de numeros
         A = Integer.parseInt(JOptionPane.showInputDialog(null, "Ingrese el primer numero"));
-        B = Integer.parseInt(JOptionPane.showInputDialog(null, "Ingrese el primer numero"));
-        C = Integer.parseInt(JOptionPane.showInputDialog(null, "Ingrese el primer numero"));
+        B = Integer.parseInt(JOptionPane.showInputDialog(null, "Ingrese el segundo numero"));
+        C = Integer.parseInt(JOptionPane.showInputDialog(null, "Ingrese el tercer numero"));
         
         //Calcular el numero mayor entre A, B y C
         if(A>=B && A>=C){
