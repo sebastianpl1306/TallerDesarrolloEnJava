@@ -41,7 +41,7 @@ public class Ejercicio11 {
             }else{
                 ordenNumerosMayor = "**Ordenando de mayor a menor**\n";
                 ordenNumerosMayor += "mayor: "+numero3+"\n";
-                ordenNumerosMayor += "medio: "+numero3+"\n";
+                ordenNumerosMayor += "medio: "+numero2+"\n";
                 ordenNumerosMayor += "menor: "+numero1+"\n";
                 JOptionPane.showMessageDialog(null, ordenNumerosMayor);
                 
