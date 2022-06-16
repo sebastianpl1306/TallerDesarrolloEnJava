@@ -7,8 +7,12 @@ package taller1Java;
 import javax.swing.JOptionPane;
 
 /**
- *
- * @author sebas
+ * 30/05/2022
+ * 
+ * @author sebastian pabon lopez
+ * Desarrolle un algoritmo que permita leer tres valores y almacenarlos en las variables A, B y
+ * C respectivamente. El algoritmo debe indicar cuál es el mayor y cuál es el menor. Luego
+ * debe realiza la impresión en pantalla del resultado.
  */
 public class Ejercicio1 {
     public static void main(String[] args) {

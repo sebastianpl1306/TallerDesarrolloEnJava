@@ -7,8 +7,11 @@ package taller1Java;
 import javax.swing.JOptionPane;
 
 /**
- *
- * @author sebas
+ * 30/05/2022
+ * 
+ * @author sebastian pabon lopez
+ * Desarrolle un algoritmo que permita leer un valor cualquiera N y escriba si dicho número es
+ * par o impar. Luego debe realiza la impresión en pantalla del resultado.
  */
 public class Ejercicio4 {
     public static void main(String[] args) {

@@ -7,8 +7,10 @@ package taller1Java;
 import javax.swing.JOptionPane;
 
 /**
- *
- * @author sebas
+ * 30/05/2022
+ * 
+ * @author sebastian pabon lopez
+ * Diseñe un algoritmo que lea 3 números y me muestre el menor de los 3.
  */
 public class Ejercicio7 {
     public static void main(String[] args) {

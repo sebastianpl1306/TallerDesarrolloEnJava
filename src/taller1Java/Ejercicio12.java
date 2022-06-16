@@ -7,8 +7,14 @@ package taller1Java;
 import javax.swing.JOptionPane;
 
 /**
- *
- * @author sebas
+ * 30/05/2022
+ * 
+ * @author sebastian pabon lopez
+ * Dado el monto de una compra mostrar y calcular el descuento considerado:
+ * 
+ * Descuento es el 10% si el monto es mayor a $100.
+ * Descuento es el 2% si el monto es mayor a $50 y menor o igual a $100
+ * No hay descuento si el monto es menor o igual $50
  */
 public class Ejercicio12 {
     public static void main(String[] args) {

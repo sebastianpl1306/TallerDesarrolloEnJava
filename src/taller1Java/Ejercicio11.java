@@ -7,8 +7,10 @@ package taller1Java;
 import javax.swing.JOptionPane;
 
 /**
- *
- * @author sebas
+ * 30/05/2022
+ * 
+ * @author sebastian pabon lopez
+ * Diseñe un algoritmo que lea tres números y los imprima de mayor a menor y de menor a mayor.
  */
 public class Ejercicio11 {
     public static void main(String[] args) {

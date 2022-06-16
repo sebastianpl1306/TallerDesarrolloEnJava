@@ -7,9 +7,11 @@ package taller1Java;
 import javax.swing.JOptionPane;
 
 /**
- * 04/06/2022
- * @author sebas
- * Politecnico Internacional
+ * 30/05/2022
+ * 
+ * @author sebastian pabon lopez
+ * Elabore un programa que permita ingresar 4 números enteros positivo y que los muestre
+ * en orden ascendente
  */
 public class Ejercicio13 {
     public static void main(String[] args) {

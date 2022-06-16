@@ -7,8 +7,12 @@ package taller1Java;
 import javax.swing.JOptionPane;
 
 /**
- *
- * @author sebas
+ * 30/05/2022
+ * 
+ * @author sebastian pabon lopez
+ * Realice un algoritmo que a partir de proporcionarle la velocidad de un automóvil, expresada
+ * en kilómetros por hora, proporcione la velocidad en metros por segundo. Luego debe realiza
+ * la impresión en pantalla del resultado.
  */
 public class Ejercicio6 {
     public static void main(String[] args) {

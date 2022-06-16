@@ -7,8 +7,11 @@ package taller1Java;
 import javax.swing.JOptionPane;
 
 /**
- *
- * @author sebas
+ * 30/05/2022
+ * 
+ * @author sebastian pabon lopez
+ * Desarrolle un algoritmo que permita leer dos números y ordenarlos de menor a mayor, si
+ * es el caso. Luego debe realiza la impresión en pantalla del resultado
  */
 public class Ejercicio5 {
     public static void main(String[] args) {

@@ -7,8 +7,13 @@ package taller1Java;
 import javax.swing.JOptionPane;
 
 /**
- *
- * @author sebas
+ * 30/05/2022
+ * 
+ * @author sebastian pabon lopez
+ * Diseñe un algoritmo que lea tres longitudes y determine si forman o no un triángulo. Si es
+ * un triángulo determine de qué tipo de triángulo se trata entre: equilátero, isósceles o
+ * escaleno. Considere que para formar un triángulo se requiere que: "el lado mayor sea
+ * menor que la suma de los otros dos lados".
  */
 public class Ejercicio10 {
     public static void main(String[] args) {

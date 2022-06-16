@@ -8,8 +8,11 @@ import javax.swing.JOptionPane;
  */
 
 /**
- *
- * @author sebas
+ * 30/05/2022
+ * 
+ * @author sebastian pabon lopez
+ * Desarrolle un algoritmo que realice la sumatoria de los números enteros comprendidos
+ * entre el 1 y el 10. Luego debe realizar la impresión en pantalla de la suma de los números.
  */
 public class Ejercicio2 {
     public static void main(String[] args) {

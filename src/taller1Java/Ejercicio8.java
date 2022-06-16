@@ -7,8 +7,10 @@ package taller1Java;
 import javax.swing.JOptionPane;
 
 /**
- *
- * @author sebas
+ * 30/05/2022
+ * 
+ * @author sebastian pabon lopez
+ * Elaborar un programa que me ingrese 3 números y me muestre el número intermedio.
  */
 public class Ejercicio8 {
     public static void main(String[] args) {
